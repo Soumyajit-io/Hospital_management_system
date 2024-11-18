@@ -1,6 +1,6 @@
 # Hospital Management System 🏥
 
-A hospital management system built using **Tkinter** and **MySQL** to streamline healthcare workflows. This project includes features such as a dashboard, patient management, appointment scheduling, prescription handling, and billing.
+A hospital management system built using **Tkinter** and **MySQL** to streamline healthcare workflows. This project includes features such as a patient management, appointment scheduling, prescription handling.
 
 ## 🚀 Features
 
